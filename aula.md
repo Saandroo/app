@@ -52,3 +52,10 @@ Apresentar os dados
 - [x] Executar
 - [x] arrow fuction / named function
 
+## Estrutura de repetição
+
+- [x] While
+
+## Condicionais
+
+- [x] switch

@@ -1,15 +1,17 @@
-let meta = {
-    value: 'ler um livro por mês',
-    checked: true,
-}
+const  start = () =>{
 
-let metas = [
-    meta,
-    {
-        value: "caminhar 20 minutos todos os dias",
-        cacjed: false
+    while(true){
+        let opcao = "sair"
+        switch(opcao){
+            case "cadastrar":
+                console.log("vamos cadastrar")
+                break
+            case "listar":
+                console.log("vamos listar")
+                break
+            case "sair":
+                return
+            
+        }
     }
-]
-
-console.log(metas[1].value)
-
+}
