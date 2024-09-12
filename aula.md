@@ -18,13 +18,37 @@ Coletar os dados
 Processar os dados(manipular, alterar ...)
 Apresentar os dados
 
+## Escopo e variaveis
+
+- [x] Variaveis locais e globais
+- [x] Constante
+
 ## Tipos de dados:
 
-String (textos): '' "" ``
-Number 2 1.4
-Function
+- [x] String (textos): '' "" ``
+- [x] Number 2 1.4
+- [x] Boolean true, false
 
 ## Operadores
 
-Operadores de atribuição de valor =
+- [x] Operadores de atribuição de valor =
+- [x] Operador de contatenação +
+
+## Etrutura de dados:
+
+## Arrays:
+ 
+- [x] Uma lista que contem qualquer tipo de dados
+
+## Objetos:
+
+[x] Atributos e metodos
+[x] Criação e manipulação de objetos
+[x] Acesso a propriedade de objetos
+
+## Function
+
+- [x] Criar, passar argumento
+- [x] Executar
+- [x] arrow fuction / named function
 
