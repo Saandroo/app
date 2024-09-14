@@ -40,6 +40,7 @@ Apresentar os dados
 ## Arrays:
  
 - [x] Uma lista que contem qualquer tipo de dados
+- [x] Metodosd e array:  pusch, find, forEach
 
 ## Objetos:
 
