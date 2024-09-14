@@ -1,4 +1,4 @@
-Markdown
+
 # Aplicação para Gerenciamento de Metas
 
 ## Descrição
